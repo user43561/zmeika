@@ -1,2 +1,2 @@
-# zmeika
-zmeika1111
+Запуск main.py 
+Управление — WASD
